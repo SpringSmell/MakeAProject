@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionBarSize">50dp</dimen>
+    <dimen name="titleSize">18sp</dimen>
+    <dimen name="bodySize">15sp</dimen>
+    <dimen name="tagSize">11sp</dimen>
+    <dimen name="titleBoldSize">20sp</dimen>
+
+    <dimen name="main_menu_icon_size">24dp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MakeAProject</string>
+    
+    <string name="main_menu_close">Close menu</string>
+    <string name="main_menu_open">Open menu</string>
+    <string name="hint_information">This is hint information</string>
+
+    <string name="index">index</string>
+    <string name="test_fragment1">Fragment1</string>
+    <string name="test_fragment2">Fragment2</string>
+    <string name="person_center">personCenter</string>
+    <string name="once_again_press">再按一次退出程序</string>
+    <string name="cancel">取消</string>
+    <string name="action_settings">设置</string>
+
+</resources>
